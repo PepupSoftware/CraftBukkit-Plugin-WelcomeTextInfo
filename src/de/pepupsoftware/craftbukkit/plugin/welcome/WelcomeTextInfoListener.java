@@ -134,7 +134,7 @@ public final class WelcomeTextInfoListener implements Listener {
     				Bukkit.getServer().dispatchCommand(Bukkit.getServer().getConsoleSender(), "scoreboard players add " + p.getName() + " Gesamt 1");
     				break;
     			case DIAMOND:
-    				Bukkit.getServer().dispatchCommand(Bukkit.getServer().getConsoleSender(), "scoreboard players add " + p.getName() + " Gesamt 100");
+    				Bukkit.getServer().dispatchCommand(Bukkit.getServer().getConsoleSender(), "scoreboard players add " + p.getName() + " Gesamt 1000");
     				break;
     			default:
     				final Material m = b.getType();
