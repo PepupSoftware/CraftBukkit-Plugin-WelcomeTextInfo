@@ -1,0 +1,17 @@
+name: WelcomeTextInfo
+version: 1.3
+author: pepup939de
+website: http://www.pepupsoftware.de
+main: de.pepupsoftware.craftbukkit.plugin.welcome.WelcomeTextInfo
+commands:
+  gamertimelist:
+    description: Listet die aktiven Spieler mit ihrer Spielzeit auf.
+    usage: Syntax Error! /gamertimelist
+  gametimer:
+    description: Schaltet die abgelaufende Spielzeit ein/aus!
+    usage: Syntax Error! /gametimer <on/off>
+api-version: 1.16
+      
+       
+       
+       
